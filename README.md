@@ -6,8 +6,6 @@ One can find this repo helpful if you want to make familiar with different Machi
 
 ## Technologies
 
----
-
 **Python 3.8**
 #### Required libraries
 - numpy
@@ -24,8 +22,6 @@ One can find this repo helpful if you want to make familiar with different Machi
 
 ## How to use
 
----
-
 - indicators
   * You can find several technical indicators in this module.
 - featureCreator
@@ -38,8 +34,6 @@ One can find this repo helpful if you want to make familiar with different Machi
   * You can find the simplified version of whole process in Ticker EDA in this module.
 
 ## Acknowledgments
-
----
 
 * These scripts and notebooks were built using [yahoo!finance](https://finance.yahoo.com/) data that fetch from [yfinance](https://github.com/ranaroussi/yfinance) package.
 * Thanks to [Mike](https://github.com/mtodisco10) who helped me with this project.
