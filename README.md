@@ -33,6 +33,9 @@ One can find this repo helpful if you want to make familiar with different Machi
 - tickerPrediction
   * You can find the simplified version of whole process in Ticker EDA in this module.
 
+## Results
+You can find some results in this [link](https://docs.google.com/spreadsheets/d/1OBgDP8AgoOi2cF-RFdkyDMZbgLZke30VgcKgI0WARKc/edit?usp=sharing).
+
 ## Acknowledgments
 
 * These scripts and notebooks were built using [yahoo!finance](https://finance.yahoo.com/) data that fetch from [yfinance](https://github.com/ranaroussi/yfinance) package.
